@@ -1,0 +1,33 @@
+<LI><STRONG><A href="f12Jin.html">September 7, 2012 </A></STRONG>
+<MENU><LI>
+ Prof. Jin Koda<BR>
+  "Lights, Telescopes, and Interferometers"
+</LI>
+</MENU>
+</LI>
+
+<LI><STRONG><A href="f12MikeS.html">October 5, 2012 </A></STRONG>
+<MENU><LI>
+ Prof. Michal Simon<BR>
+  "Tides in the Solar System"
+</LI>
+</MENU>
+</LI>
+
+<img src="new.gif">
+<LI><STRONG><A href="f12Jim.html">November 2, 2012 </A></STRONG>
+***POSTPONED UNTIL SPRING DUE TO HURRICANE SANDY***
+<MENU ><LI>
+ Prof. James Lattimer<BR>
+        "The Discovery of Superfluidity in the Core of a Neutron Star"
+</LI>
+</MENU>
+</LI>
+
+<LI><STRONG><A href="f12Stan.html">December 7, 2012 </A></STRONG>
+<MENU><LI>
+ Prof. Stan Metchev<BR>
+  "Homing in on Another Earth"
+</LI>
+</MENU>
+</LI>

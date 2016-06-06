@@ -1,0 +1,34 @@
+body
+{
+   text-align: center; /* IE hack -- margin-auto in container doesn't work */
+}
+
+h1
+{
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font: normal 200% "Trebuchet MS", Arial, Helvetica, sans-serif;
+   color: blue;
+}
+
+h2
+{
+   padding: 0;
+   margin: 0;
+   text-align: center;
+   font: normal 140% "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+div.abs 
+{
+   width: 600px;
+   margin: 0 auto;
+   text-align: left; /* undo IE hack to body */
+}
+
+p
+{
+  padding-left: 1em;
+  padding-right: 1em;
+}
