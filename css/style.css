@@ -979,7 +979,7 @@
 	#banner {
 		background-color: #666666;
 		/* background-image: url("../images/heic1601a.jpg"); */
-		background-image: url("../images/hs-2006-55-a-large_web.jpg");
+		background-image: url(../images/med_tint.png), url("../images/hs-2006-55-a-large_web.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
